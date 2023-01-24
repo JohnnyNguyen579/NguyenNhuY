@@ -1,0 +1,38 @@
+@media (max-width:63.9375em){
+    .places-content .btn{
+        padding: 15px 24px;
+    }
+
+    .sub-nav li a{
+        padding: 8px 55px;
+        padding-left: 30px;
+    }
+
+    #content .content-section{
+        max-width: 100%;
+        padding-left: 16px;
+        padding-right:16px ;
+    }
+
+    .contact-content .contact-info{
+    font-size: 24px;
+    line-height: 2.4;
+    }
+
+    .contact-form .btn{
+        width: 100%;
+        padding: 21px 13px;
+    }
+    #footer .socail a{
+    font-size: 44px;
+    padding: 12px;
+    }
+
+    #footer .copyright {
+        font-size: 35px;
+    }
+
+    #footer .copyright a{
+        font-size: 35px;
+    }
+}
